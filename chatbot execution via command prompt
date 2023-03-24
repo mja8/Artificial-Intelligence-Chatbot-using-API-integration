@@ -1,0 +1,18 @@
+Microsoft Windows [Version 10.0.22621.1413]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\JAY>python "C:\Users\JAY\Documents\app3.py"
+C:\Users\JAY\AppData\Roaming\Python\Python311\site-packages\gradio\inputs.py:27: UserWarning: Usage of gradio.inputs is deprecated, and will not be supported in the future, please import your component from gradio.components
+  warnings.warn(
+C:\Users\JAY\AppData\Roaming\Python\Python311\site-packages\gradio\deprecation.py:40: UserWarning: `optional` parameter is deprecated, and it has no effect
+  warnings.warn(value)
+C:\Users\JAY\AppData\Roaming\Python\Python311\site-packages\gradio\deprecation.py:40: UserWarning: `numeric` parameter is deprecated, and it has no effect
+  warnings.warn(value)
+C:\Users\JAY\AppData\Roaming\Python\Python311\site-packages\gradio\outputs.py:22: UserWarning: Usage of gradio.outputs is deprecated, and will not be supported in the future, please import your components from gradio.components
+  warnings.warn(
+C:\Users\JAY\AppData\Roaming\Python\Python311\site-packages\gradio\blocks.py:503: UserWarning: Cannot load compact. Caught Exception: The space compact does not exist
+  warnings.warn(f"Cannot load {theme}. Caught Exception: {str(e)}")
+Running on local URL:  http://127.0.0.1:7860
+Running on public URL: https://6be46ff7de8e76640a.gradio.live
+
+This share link expires in 72 hours. For free permanent hosting and GPU upgrades (NEW!), check out Spaces: https://huggingface.co/spaces
